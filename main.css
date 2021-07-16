@@ -1,0 +1,206 @@
+@import "./bootstrap.css";
+*{
+    margin: 0px;
+}
+.image1{
+  background-image: url("https://images.pexels.com/photos/3459979/pexels-photo-3459979.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+ background-repeat: no-repeat;
+ background-size: cover;
+  width: 100%;
+  height: 100vh;
+
+}
+.quicklink{
+  position: fixed;
+  font-size: 20px;
+  margin-left: 800px;
+  margin-top: -695px;
+  font-family: 'Bree Serif', serif;
+ 
+}
+.quicklink :hover{
+  color: lemonchiffon;
+}
+.qlink1{
+  text-decoration: none;
+  padding-left: 50px;
+  color: white;
+}
+.qlink2{
+  text-decoration: none;
+  padding-left: 50px;
+  color: white;
+}
+.qlink3{
+  text-decoration: none;
+  padding-left: 50px;
+  color: white;
+}
+.qlink4{
+  text-decoration: none;
+  padding-left: 50px;
+  color: white;
+}
+.para1{
+  font-size: 25px;
+  margin-top: -500px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  letter-spacing: 5px;
+  color: lemonchiffon;
+}
+.para2{
+  font-size: 60px;
+  margin-top: 50px;
+  text-align: center;
+  font-family: 'Bree Serif', serif;
+  color: white;
+}
+.para3{
+  font-size: 25px;
+  margin-top: 20px;
+  text-align: center;
+  font-family: 'Cormorant Garamond', serif;
+  letter-spacing: 10px;
+  color: lemonchiffon;
+}
+.button1{
+  background-color: transparent;
+  width: 150px;
+  height: 50px;
+  text-align: center;
+  border: solid lemonchiffon;
+  background-color:lemonchiffon ;
+  border-radius: 16px;
+  margin-left: 700px;
+  margin-top: 40px;
+  font-size: 18px;
+}
+.button1:hover{
+  border: solid #FF8C00;
+  background-color: #FF8C00;
+}
+.back2{
+  margin-top: 177px;
+  background-color: #bedbdabb;
+  width: 100%;
+  height: 745px;
+}
+.image2{
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  margin-left: 600px;
+  margin-top: 70px;
+}
+.para4{
+  font-size: 40px;
+  margin-top: 100px;
+  text-align: center;
+  font-family: 'Padauk', sans-serif;
+}
+.para5{
+  font-size: 20px;
+  text-align: center;
+  margin-left: 230px;
+  margin-right: 230px;
+  line-height: 45px;
+  margin-top: 20px;
+  font-family: 'Cormorant Garamond', serif;
+}
+.pic{
+  background-color: #c5c5c56b;
+  width: 100%;
+
+}
+.picture2{
+  padding-top: 100px;
+  padding-bottom: 100px;
+  margin-left: 250px;
+  width: 1000px;  
+}
+.back3{
+  background-color: #8fbc8f7c;
+  width: 100%;
+  height: 745px;
+}
+.image3{
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  margin-left: 600px;
+  margin-top: 70px;
+}
+.para6{
+  font-size: 40px;
+  margin-top: 100px;
+  text-align: center;
+  font-family: 'Padauk', sans-serif;
+}
+.para7{
+  font-size: 20px;
+  text-align: center;
+  margin-left: 230px;
+  margin-right: 230px;
+  line-height: 45px;
+  margin-top: 20px;
+  font-family: 'Cormorant Garamond', serif;
+}
+.image4{
+  background-image: url("https://img.freepik.com/free-photo/3d-background-with-connecting-lines-dots_1048-12214.jpg?size=338&ext=jpg");
+ background-repeat: no-repeat;
+ background-size: cover;
+  width: 100%;
+  height: 100vh;
+}
+.para8{
+  font-size: 60px;
+  margin-top: -550px;
+  text-align: center;
+  font-family: 'Bree Serif', serif;
+  color: white;
+}
+.para9{
+  font-size: 25px;
+  margin-top: 50px;
+  font-family: 'Merriweather', serif;
+  letter-spacing: 5px;
+  color: white;
+  margin-left: 150px;
+  margin-right: 150px;
+  text-align: center;
+  line-height: 60px;
+}
+.button2{
+  background-color: transparent;
+  width: 150px;
+  height: 50px;
+  text-align: center;
+  border: solid lemonchiffon;
+  background-color:lemonchiffon ;
+  border-radius: 16px;
+  margin-left: 700px;
+  margin-top: 40px;
+  font-size: 18px;
+}
+.button2:hover{
+  border: solid #FF8C00;
+  background-color: #FF8C00;
+}
+.icon1{
+  margin-top: 10px;
+  margin-left: 70px;
+  width: 70px;
+}
+.icon2{
+  color: white;
+  font-size: 30px;
+  margin-left: 150px;
+  margin-top: -60px;
+  font-family: 'Bree Serif', serif;
+}
+#footer{
+  margin-top: 300px;
+  font-size: 25px;
+  text-align:center;
+}
